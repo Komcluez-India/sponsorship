@@ -1,0 +1,20 @@
+{
+  "name": "sponsorship",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sponsorship_server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Komcluez-India/sponsorship.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Komcluez-India/sponsorship/issues"
+  },
+  "homepage": "https://github.com/Komcluez-India/sponsorship#readme"
+}
