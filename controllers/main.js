@@ -7,3 +7,8 @@ exports.home = async (request, response, next) => {
     console.log('Hi');
     response.render("fundraisers/school-development-light-gwalior", { title: 'About' });
   };
+
+  exports.lSamvedna = async (request, response, next) => {
+    console.log('Hi');
+    response.render("fundraisers/school-uniforms-for-orphanage", { title: 'About' });
+  };
